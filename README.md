@@ -28,11 +28,11 @@
 
 ## Autoren
 ### Mitwirkende: 
-Bentaayate El Ouarda, Mohamed
-Kilinc, Abdülkerim
-Issac Abusolomon, Awed
-Attaaouij, Charaf Eddin
-Dietermann, Nicolas
+- Bentaayate El Ouarda, Mohamed
+- Kilinc, Abdülkerim
+- Issac Abusolomon, Awed
+- Attaaouij, Charaf Eddin
+- Dietermann, Nicolas
 
 #### Projektmanager: 
 Dietermann, Nicolas

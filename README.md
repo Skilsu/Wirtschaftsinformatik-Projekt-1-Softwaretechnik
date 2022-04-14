@@ -35,4 +35,4 @@
 - Dietermann, Nicolas
 
 #### Projektmanager: 
-Dietermann, Nicolas
+- Dietermann, Nicolas

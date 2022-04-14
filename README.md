@@ -1,10 +1,4 @@
-# Wirtschaftsinformatik-Projekt-1-Softwaretechnik
-
-<p align="center">- - -</p>
-
 <h1 align="center">Wirtschaftsinformatik-Projekt-1-Softwaretechnik</h1>
-
-<p align="center">- - -</p>
 
 ### GitHub Repository für "Wirtschaftsinformatik-Projekt-1-Softwaretechnik".
 
@@ -12,11 +6,11 @@
 
 - [Repo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik "Wirtschaftsinformatik-Projekt-1-Softwaretechnik Repository")
 
-- [Live](<Homepage url> "Live View") _// Muss noch ergänzt werden_
+- [Live](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 
-- [Bugs](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/issues "Issues Page")
+- [Bugs](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/issues "Issues Page")  _// Funktioniert noch nicht!_
 
-- [API](<API Link> "API") _// Ist das notwendig?_
+- [API](<API Link> "API") _// Ist das notwendig?_ _// Funktioniert noch nicht!_
 
 ## Screenshots  _// Ist das notwendig?_
 

@@ -32,6 +32,7 @@
 - Kilinc, Abdülkerim
 - Issac Abusolomon, Awed
 - Attaaouij, Charaf Eddin
+- Tewolde, Ghedam
 - Dietermann, Nicolas
 
 #### Projektmanager: 

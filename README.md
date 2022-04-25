@@ -6,6 +6,8 @@
 
 - [Repository](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik "Wirtschaftsinformatik-Projekt-1-Softwaretechnik Repository")
 
+- [Projekt Teaminfo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/Projekt_Teaminfo.doc "Projekt Teaminfo")
+
 - [Homepage](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 
 - [Bugs](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/issues "Issues Page")  _// Funktioniert noch nicht!_

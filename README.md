@@ -8,7 +8,7 @@
 
 - [Projekt Teaminfo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/Projekt_Teaminfo "Projekt Teaminfo")
 
-- [Readme](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/README.md "README")
+- [Readme](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/blob/main/README.md "README")
 
 - [Homepage](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 

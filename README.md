@@ -6,7 +6,7 @@
 
 - [Repository](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik "Wirtschaftsinformatik-Projekt-1-Softwaretechnik Repository")
 
-- [Projekt Teaminfo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/Projekt_Teaminfo.doc "Projekt Teaminfo")
+- [Projekt Teaminfo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/Projekt_Teaminfo "Projekt Teaminfo")
 
 - [Homepage](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 

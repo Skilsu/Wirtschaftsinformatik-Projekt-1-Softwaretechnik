@@ -8,6 +8,8 @@
 
 - [Projekt Teaminfo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/Projekt_Teaminfo "Projekt Teaminfo")
 
+- [Readme])https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/README.md "README")
+
 - [Homepage](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 
 - [Bugs](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/issues "Issues Page")  _// Funktioniert noch nicht!_

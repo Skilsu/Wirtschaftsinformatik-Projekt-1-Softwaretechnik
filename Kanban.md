@@ -2,17 +2,17 @@
 
 ## Backlog
 
-[ ] App Programmieren
+- [ ] App Programmieren
 
-[ ] Website erstellen
+- [ ] Website erstellen
 
-[ ] Website hochladen
+- [ ] Website hochladen
 
-[ ] Datenbank programmieren
+- [ ] Datenbank programmieren
 
-[ ] Datenbankserver installieren
+- [ ] Datenbankserver installieren
 
-[ ] Systeme verbinden
+- [ ] Systeme verbinden
 
 ## To Do
 
@@ -30,14 +30,14 @@
 
 ## Done
 
-[ ] App Programmieren
+- [ ] App Programmieren
 
-[ ] Website erstellen
+- [ ] Website erstellen
 
-[ ] Website hochladen
+- [ ] Website hochladen
 
-[ ] Datenbank programmieren
+- [ ] Datenbank programmieren
 
-[ ] Datenbankserver installieren
+- [ ] Datenbankserver installieren
 
-[ ] Systeme verbinden
+- [ ] Systeme verbinden

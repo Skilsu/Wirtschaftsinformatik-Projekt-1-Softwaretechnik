@@ -8,6 +8,8 @@
 
 - [Kanban Board](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/blob/main/Kanban.md "Kanban")
 
+- [Projekt Wiki](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/wiki "Wiki")
+
 - [Homepage](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 
 - [Bugs](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/issues "Issues Page")  _// Funktioniert noch nicht!_

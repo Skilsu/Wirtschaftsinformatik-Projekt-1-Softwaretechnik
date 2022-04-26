@@ -40,7 +40,7 @@
 
 ## Done
 
-- [ ] App Programmieren
+- [x] App Programmieren
 
 - [ ] Website erstellen
 

@@ -1,4 +1,4 @@
-<h1>Kanban</h1>
+<h1 align="center">Kanban</h1>
 
 ## Backlog
 
@@ -18,8 +18,26 @@
 
 ## In Progress
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [charafatj](https://github.com/charafatj "charafatj"):
 
-- [Profile](https://github.com/Skilsu "Skilsu"):
+- [AbdulkerimKilinc](https://github.com/AbdulkerimKilinc "AbdulkerimKilinc"):
+
+- [Mosobe](https://github.com/Mosobe "Mosobe"):
+
+- [AwetIssac](https://github.com/AwetIssac "AwetIssac"):
+
+- [Skilsu](https://github.com/Skilsu "Skilsu"):
 
 ## Done
+
+[ ] App Programmieren
+
+[ ] Website erstellen
+
+[ ] Website hochladen
+
+[ ] Datenbank programmieren
+
+[ ] Datenbankserver installieren
+
+[ ] Systeme verbinden

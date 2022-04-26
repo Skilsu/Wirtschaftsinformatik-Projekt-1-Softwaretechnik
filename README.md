@@ -1,6 +1,6 @@
 <h1 align="center">Wirtschaftsinformatik-Projekt-1-Softwaretechnik</h1>
 
-### GitHub Repository für "Wirtschaftsinformatik-Projekt-1-Softwaretechnik" Gruppe 12 Thema "".
+### GitHub Repository für "Wirtschaftsinformatik-Projekt-1-Softwaretechnik" Gruppe 12 Thema "Fitness Planer".
 
 ## Links
 
@@ -30,12 +30,19 @@
 
 ## Autoren
 ### Mitwirkende: 
-- Bentaayate El Ouarda, Mohamed
-- Kilinc, Abdülkerim
-- Issac Abusolomon, Awed
-- Attaaouij, Charaf Eddin
-- Tewolde, Ghedam
-- Dietermann, Nicolas
+
+- [charafatj](https://github.com/charafatj "charafatj")
+
+- [AbdulkerimKilinc](https://github.com/AbdulkerimKilinc "AbdulkerimKilinc")
+
+- [Mosobe](https://github.com/Mosobe "Mosobe")
+
+- [AwetIssac](https://github.com/AwetIssac "AwetIssac")
+
+- [Skilsu](https://github.com/Skilsu "Skilsu")
+
+... wird ergänzt...
 
 #### Projektmanager: 
-- Dietermann, Nicolas
+
+- [Skilsu](https://github.com/Skilsu "Skilsu")

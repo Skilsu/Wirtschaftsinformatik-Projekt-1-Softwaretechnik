@@ -6,7 +6,7 @@
 
 - [Repository](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik "Wirtschaftsinformatik-Projekt-1-Softwaretechnik Repository")
 
-- [Projekt Teaminfo](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/blob/main/Projekt_Teaminfo.doc "Projekt Teaminfo")
+- [Kanban Board](https://github.com/Skilsu/Wirtschaftsinformatik-Projekt-1-Softwaretechnik/blob/main/Kanban.md "Kanban")
 
 - [Homepage](<Homepage url> "Live View") _// Muss noch ergänzt werden_ _// Funktioniert noch nicht!_
 
@@ -23,10 +23,17 @@
  - Java
  - ...
 
-## Nächste Schritte/Updates
+## Sprintplanung:
+
+### Erster Sprint:
 
  - [ ] Organisation des Projekts und Themenwahl
  - [ ] ...
+
+### Zweiter Sprint:
+
+- [ ] ...
+- [ ] ...
 
 ## Autoren
 ### Mitwirkende: 
@@ -41,7 +48,7 @@
 
 - [Skilsu](https://github.com/Skilsu "Skilsu")
 
-... wird ergänzt...
+- ... wird ergänzt...
 
 #### Projektmanager: 
 

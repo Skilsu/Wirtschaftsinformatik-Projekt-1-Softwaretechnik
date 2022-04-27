@@ -1,6 +1,6 @@
 <h1 align="center">Wirtschaftsinformatik-Projekt-1-Softwaretechnik</h1>
 
-### GitHub Repository für "Wirtschaftsinformatik-Projekt-1-Softwaretechnik" Gruppe 12 Thema "Fitness Planer".
+### GitHub Repository für "Wirtschaftsinformatik-Projekt-1-Softwaretechnik" Gruppe 12 Thema "Fitness Planner".
 
 ## Links
 

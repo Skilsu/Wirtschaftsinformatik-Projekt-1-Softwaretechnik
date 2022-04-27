@@ -2,7 +2,7 @@
 
 ## Backlog
 
-- [ ] App Programmieren
+- [x] App Programmieren
 
 - [ ] Website erstellen
 
@@ -24,7 +24,7 @@
 
 - [AbdulkerimKilinc](https://github.com/AbdulkerimKilinc "AbdulkerimKilinc"):
 
-  - _current Task_
+  - App Programmieren
 
 - [Mosobe](https://github.com/Mosobe "Mosobe"):
 

@@ -1,24 +1,23 @@
 <h1 align="center">Kanban</h1>
 
 ## Backlog
+- App Programmieren
 
-- [x] App Programmieren
+- Website erstellen
 
-- [ ] Website erstellen
+- Website hochladen
 
-- [ ] Website hochladen
+- Datenbank programmieren
 
-- [ ] Datenbank programmieren
+- Datenbankserver installieren
 
-- [ ] Datenbankserver installieren
+- Systeme verbinden
 
-- [ ] Systeme verbinden
+- Mockup
 
-- [ ] Mockup
+- Anforderungen von App und Website klären
 
-- [ ] Anforderungen von App und Website klären
-
-- [ ] Dokumentation
+- Dokumentation
 
 ## To Do
 
@@ -38,34 +37,23 @@
 
 - [charafatj](https://github.com/charafatj "charafatj"):
 
-  - _current Task_
+  -
 
 - [AbdulkerimKilinc](https://github.com/AbdulkerimKilinc "AbdulkerimKilinc"):
 
-  - App Programmieren
+  -
 
 - [Mosobe](https://github.com/Mosobe "Mosobe"):
 
-  - _current Task_
+  -
 
 - [AwetIssac](https://github.com/AwetIssac "AwetIssac"):
 
-  - _current Task_
+  -
 
 - [Skilsu](https://github.com/Skilsu "Skilsu"):
 
-  - _current Task_
+  -
 
 ## Done
 
-- [ ] App Programmieren
-
-- [ ] Website erstellen
-
-- [ ] Website hochladen
-
-- [ ] Datenbank programmieren
-
-- [ ] Datenbankserver installieren
-
-- [ ] Systeme verbinden

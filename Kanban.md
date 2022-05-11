@@ -14,11 +14,21 @@
 
 - [ ] Systeme verbinden
 
+- [ ] Mockup
+
+- [ ] Feature Rahmen klären
+
+- [ ] Dokumentation
+
 ## To Do
 
 - Grundgerüst App
 
 - Grundgerüst Website
+
+- Feature Rahmen klären
+
+- Dokumentation
 
 ## In Progress
 

@@ -16,7 +16,7 @@
 
 - [ ] Mockup
 
-- [ ] Feature Rahmen klären
+- [ ] Anforderungen von App und Website klären
 
 - [ ] Dokumentation
 
@@ -26,11 +26,15 @@
 
 - Grundgerüst Website
 
-- Feature Rahmen klären
+- Anforderungen von App und Website klären
 
 - Dokumentation
 
 ## In Progress
+
+- _@all_
+
+  - Anforderungen von App und Website klären
 
 - [charafatj](https://github.com/charafatj "charafatj"):
 

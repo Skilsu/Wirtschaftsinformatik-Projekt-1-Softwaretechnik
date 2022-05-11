@@ -54,7 +54,7 @@
 
 ## Done
 
-- [] App Programmieren
+- [ ] App Programmieren
 
 - [ ] Website erstellen
 

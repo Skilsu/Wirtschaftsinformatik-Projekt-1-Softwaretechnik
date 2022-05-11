@@ -16,6 +16,10 @@
 
 ## To Do
 
+- Grundgerüst App
+
+- Grundgerüst Website
+
 ## In Progress
 
 - [charafatj](https://github.com/charafatj "charafatj"):

@@ -23,7 +23,10 @@
 ## Programmiersprachen
 
  - Java
- - ...
+ - Xml
+ - Html
+ - Css
+ - Php
 
 ## Sprintplanung:
 

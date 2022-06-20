@@ -23,6 +23,7 @@
 ## Programmiersprachen
 
  - Java
+ - SQL
  - Xml
  - Html
  - Css

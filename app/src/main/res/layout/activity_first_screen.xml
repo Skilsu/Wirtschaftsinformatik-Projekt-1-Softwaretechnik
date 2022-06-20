@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Welcome to Fit4ForFun"
+        app:layout_constraintBaseline_toBottomOf="match-parent"/>
+    <TextView
+        android:id="@+id/welcome_text_for_Login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Melde dich an und entdecke Fit4ForFun"/>
+    <TextView
+        android:id="@+id/email_adress_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Email Address"/>
+
+    <EditText
+        android:id="@+id/email_adress_field"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

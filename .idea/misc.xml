@@ -9,10 +9,12 @@
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/activity_first_screen.xml" value="0.2421875" />
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/activity_main.xml" value="0.19972826086956522" />
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/activity_trainingsplan.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/activity_uebungsuebersicht.xml" value="0.20855855855855857" />
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/bottom_bar.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/layout.xml" value="0.2421875" />
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/rounded_corner.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/training_recyclerview_item.xml" value="0.2421875" />
+        <entry key="..\:/Users/nicol/AndroidStudioProjects/FitnessPlanner/app/src/main/res/layout/uebung_recyclerview_item.xml" value="0.2421875" />
       </map>
     </option>
   </component>

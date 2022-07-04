@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Fit4Fun</string>
+    <string name="welcome_text">Wilkommen zu Fit4Fun</string>
+    <string name="welcome_text2">Melde dich an und entdecke die App</string>
+    <string name="email_adress">Email Adresse</string>
+    <string name="hidden_text_email_adress">forexample@mail.com</string>
+    <string name="password">Passwort</string>
+    <string name="hidden_text_password">Bitte Passwort eingeben...</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    <string name="login">Login</string>
+    <string name="no_account">Kein Account?</string>
+    <string name="create_account">Registrierung</string>
+
 </resources>

@@ -10,5 +10,7 @@
     <string name="login">Login</string>
     <string name="no_account">Kein Account?</string>
     <string name="create_account">Registrierung</string>
+    <string name="register_step_1">Wie alt bist du?</string>
+    <string name="register_step_2">Wie viel wiegst du?</string>
 
 </resources>

@@ -7,7 +7,7 @@
     android:background="@drawable/rounded_corner">
 
     <ImageView
-        android:id="@+id/training_logo"
+        android:id="@+id/exercise_logo"
         android:layout_width="124dp"
         android:layout_height="match_parent"
         android:background="@drawable/rounded_corner"
@@ -16,22 +16,22 @@
         app:layout_constraintTop_toTopOf="parent"/>
 
     <TextView
-        android:id="@+id/training_title"
+        android:id="@+id/exercise_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/training_logo"
+        app:layout_constraintStart_toEndOf="@id/exercise_logo"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_margin="4dp"
         android:textSize="18sp"
-        android:text="@string/text_training_title"/>
+        android:text="@string/text_exercise_title"/>
 
     <TextView
-        android:id="@+id/training_description"
+        android:id="@+id/exercise_description"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/training_logo"
-        app:layout_constraintTop_toBottomOf="@id/training_title"
+        app:layout_constraintStart_toEndOf="@id/exercise_logo"
+        app:layout_constraintTop_toBottomOf="@id/exercise_title"
         android:layout_margin="4dp"
-        android:text="@string/text_training_description"/>
+        android:text="@string/text_exercise_description"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

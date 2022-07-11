@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_app_name">Fit4Fun</string>
+    <string name="text_welcome_text">Wilkommen zu Fit4Fun</string>
+    <string name="text_welcome_text2">Melde dich an und entdecke die App</string>
+    <string name="text_email_adress">Email Adresse</string>
+    <string name="hidden_text_email_adress">forexample@mail.com</string>
+    <string name="text_password">Passwort</string>
+    <string name="text_hidden_password">Bitte Passwort eingeben…</string>
+    <string name="text_question_forgot_password">Passwort vergessen?</string>
+    <string name="text_login">Login</string>
+    <string name="text_no_account">Kein Account?</string>
+    <string name="text_register">Registrierung</string>
+    <string name="text_register_step_1">Wie alt bist du?</string>
+    <string name="text_register_step_2">Wie viel wiegst du?</string>
+    <string name="text_register_step_3">Was ist dein Zielgewicht?</string>
+    <string name="text_register_step_4">Wie groß bist du?</string>
+    <string name="text_profile_title">Profil bearbeiten</string>
+    <string name="text_first_name">Vorname</string>
+    <string name="text_last_name">Nachname</string>
+    <string name="text_phone_number">Telefonnummer</string>
+    <string name="text_weight">Gewicht</string>
+    <string name="text_height">Größe</string>
+    <string name="text_gender">Geschlecht</string>
+    <string name="text_age">Alter</string>
+    <string name="button_save">Speichern</string>
+    <string name="text_create_account">Erstelle Account</string>
+    <string name="text_create_account_description">Bitte geben Sie Ihre Daten an um fortzufahren</string>
+    <string name="text_password_repeat">Passwort wiederholen</string>
+    <string name="hidden_text_password_repeat">Bitte Passwort nochmal eingeben…</string>
+    <string name="text_forgot_password">Passwort vergessen</string>
+    <string name="text_forgot_password_description">Bitte geben Sie Ihre E-Mail Adrees ein, um Ihren Code zum Zurücksetzen des Passworts zu erhalten</string>
+    <string name="text_reset_password">Passwort zurücksetzen</string>
+    <string name="text_verify_account">Account verifizieren</string>
+    <string name="text_verify_account_description">Verifizieren Sie Ihr Konto durch Eingabe des Verifizierungscodes, den wir gesendet haben an ......email@adresse.de</string>
+    <string name="text_resend"><u>Erneut senden</u></string>
+    <string name="text_training_title">Trainingstitel</string>
+    <string name="text_training_description">Trainingsbeschreibung</string>
+    <string name="text_exercise_title">Übungstitel</string>
+    <string name="text_exercise_description">Übungsbeschreibung</string>
+</resources>

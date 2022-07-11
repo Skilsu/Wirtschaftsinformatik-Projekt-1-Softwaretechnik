@@ -1,0 +1,26 @@
+<? php 
+session_start();
+
+$pdo = new PDO('mysql:host=mbeo32@localhost;dbname=mbeo32_2','root', '');
+
+if(isset($_GET['login'])){
+	$email = $_POST['email'];
+	$passwort = "passwort";
+	
+	
+	$pw_hash = sha1($passwort,PASSWORD_DEFAULT);
+	
+	$statement = $pdo->prepare("SELECT * FROM users WHERE email = :email");
+	$result = $statement->execute(array('email => $email'));
+	$user = $statement->fetch();
+	
+	if($user !== false && password_verify($pw_hash,$user['pw_hash'])){
+		$_SESSION['userid'] = $user['id'];
+		echo 'Login erfolgreich. Weiter zu <a href="geheim.php"> GYM </a>';
+	}else{
+		$errorMessage =  "E-Mail oder Passwort war ungültig<br>";
+	
+	}
+	
+}
+?>

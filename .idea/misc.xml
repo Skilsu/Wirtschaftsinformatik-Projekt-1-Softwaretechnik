@@ -12,9 +12,15 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/layout/activity_trainingsplan.xml" value="0.24947916666666667" />
         <entry key="app/src/main/res/layout/bottom_bar.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/edit_profile.xml" value="0.25694376627604165" />
+        <entry key="app/src/main/res/layout/forgot_password.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/register_step_0.xml" value="0.335" />
         <entry key="app/src/main/res/layout/register_step_1.xml" value="0.2484375" />
         <entry key="app/src/main/res/layout/register_step_2.xml" value="0.2484375" />
         <entry key="app/src/main/res/layout/register_step_3.xml" value="0.2484375" />
+        <entry key="app/src/main/res/layout/register_step_4.xml" value="0.24947916666666667" />
+        <entry key="app/src/main/res/layout/training_recyclerview_item.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/layout/verify_account.xml" value="0.26146189371744794" />
       </map>
     </option>
   </component>

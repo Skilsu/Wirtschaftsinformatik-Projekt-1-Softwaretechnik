@@ -12,5 +12,26 @@
     <string name="create_account">Registrierung</string>
     <string name="register_step_1">Wie alt bist du?</string>
     <string name="register_step_2">Wie viel wiegst du?</string>
+    <string name="register_step_3">Was ist dein Zielgewicht?</string>
+    <string name="register_step_4">Wie groß bist du?</string>
+    <string name="edit_profile_title">Profil bearbeiten</string>
+    <string name="text_first_name">Vorname</string>
+    <string name="text_last_name">Nachname</string>
+    <string name="text_phone_number">Telefonnummer</string>
+    <string name="text_weight">Gewicht</string>
+    <string name="text_height">Größe</string>
+    <string name="text_gender">Geschlecht</string>
+    <string name="text_age">Alter</string>
+    <string name="button_save">Speichern</string>
+    <string name="text_create_account">Erstelle Account</string>
+    <string name="text_create_account_description">Bitte geben Sie Ihre Daten an um fortzufahren</string>
+    <string name="text_password_repeat">Passwort wiederholen</string>
+    <string name="hidden_text_password_repeat">Bitte Passwort nochmal eingeben...</string>
+    <string name="text_forgot_password">Passwort vergessen</string>
+    <string name="text_forgot_password_description">Bitte geben Sie Ihre E-Mail Adrees ein, um Ihren Code zum Zurücksetzen des Passworts zu erhalten</string>
+    <string name="text_reset_password">Passwort zurücksetzen</string>
+    <string name="text_verify_account">Account verifizieren</string>
+    <string name="text_verify_account_description">Verifizieren Sie Ihr Konto durch Eingabe des Verifizierungscodes, den wir gesendet haben an ......email@adresse.de</string>
+    <string name="text_resend"><u>Erneut senden</u></string>
 
 </resources>
